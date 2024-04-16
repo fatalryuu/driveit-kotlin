@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_profile"
+        android:icon="@drawable/ic_profile"
+        android:title="Profile" />
+    <item
+        android:id="@+id/menu_cars"
+        android:icon="@drawable/ic_car"
+        android:title="Cars" />
+    <item
+        android:id="@+id/menu_favorites"
+        android:icon="@drawable/ic_bookmark"
+        android:title="Favorites" />
+</menu>

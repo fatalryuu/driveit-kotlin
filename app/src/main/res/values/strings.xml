@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">driveit</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="cars">Cars</string>
+    <string name="favourites">Favourites</string>
+    <string name="profile">Profile</string>
+    <string name="name">Name</string>
+    <string name="surname">Surname</string>
+    <string name="username">Username</string>
+    <string name="birthday">Birthday</string>
+    <string name="job">Job</string>
+    <string name="country">Country</string>
+    <string name="city">City</string>
+    <string name="education">Education</string>
+    <string name="hobby">Hobby</string>
+    <string name="social">Social</string>
+    <string name="edit_profile">Edit profile</string>
+    <string name="logout">Logout</string>
+    <string name="delete_account">Delete account</string>
+    <string name="please_enter_your_credentials">Please, enter your credentials</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="create_a_new_account">Create a new account</string>
+    <string name="repeat_password">Repeat password</string>
+    <string name="create_an_account">Create an account</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="save_changes">Save changes</string>
+    <string name="search">Search</string>
+    <string name="add_to_favourites">Add to Favourites</string>
+    <string name="description">Description</string>
+    <string name="back">back</string>
+    <string name="remove_from_favourites">Remove from Favourites</string>
+</resources>
